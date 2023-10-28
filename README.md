@@ -1,8 +1,7 @@
 # Abdullah Al Sohel
 
-- ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png) **LinkedIn**: [sohel47](https://www.linkedin.com/in/sohel47/)
-- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) **Github**: [sohel473](https://github.com/sohel473)
-
+- 🌐 **LinkedIn**: [sohel47](https://www.linkedin.com/in/sohel47/)
+- 💼 **Github**: [sohel473](https://github.com/sohel473)
 
 ## About Me
 
