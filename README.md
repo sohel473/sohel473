@@ -48,5 +48,4 @@ Full-Stack Developer experienced in Python, Django, FastAPI, Django REST, JavaSc
 
 ## Language Skills
 
-- Mother tongue: Bengali
-- Other language(s): English (Listening B2, Reading B2, Writing B2, Spoken Production B2, Spoken Interaction B2)
+-  English (Listening B2, Reading B2, Writing B2, Spoken Production B2, Spoken Interaction B2)
