@@ -5,7 +5,7 @@
 
 ## About Me
 
-Full-Stack Developer experienced in Python, Django, FastAPI, JavaScript, ReactJS, HTML, and CSS. Proficient in SQL and database optimization. Well-versed in the software development lifecycle and adept at translating business requirements into technical solutions. Committed to best practices and continuous learning in technology and finance.
+Full-Stack Developer experienced in Python, Django, FastAPI, Django REST, JavaScript, ReactJS, HTML, and CSS. Proficient in SQL and database optimization. Well-versed in the software development lifecycle and adept at translating business requirements into technical solutions. Committed to best practices and continuous learning in technology and finance.
 
 ## Work Experience
 
