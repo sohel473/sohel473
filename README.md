@@ -48,4 +48,4 @@ Full-Stack Developer experienced in Python, Django, FastAPI, Django REST, JavaSc
 
 ## Language Skills
 
--  English (Listening B2, Reading B2, Writing B2, Spoken B2)
+-  English (C1)
